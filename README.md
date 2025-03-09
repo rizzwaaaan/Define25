@@ -6,13 +6,13 @@ The official template repository for Define 3.0
 # Smart Waste Management System
 
 ### Team Information
-- **Team Name**: orque
+- **Team Name**: Qrque
 - **Track**: Sustainability
 
 ### Team Members
 | Name | Role | GitHub | LinkedIn |
 |------|------|--------|----------|
-| RIZWAN SHAJAHAN | Developer | [@yourusername](https://github.com/rizzwaaaan) | [Profile](https://linkedin.com/in/rizwan-shajahan) |
+| RIZWAN SHAJAHAN | DEVELOPER | https://github.com/rizzwaaaan | https://linkedin.com/in/rizwan-shajahan |
 | AASHISH S | BACKEND | https://github.com/orry14  | https://www.linkedin.com/in/aashishs14 |
 | PARVATHY SALIN | FRONTEND | https://github.com/parvathysalin |  https://www.linkedin.com/in/parvathysalin |
 | SUDHIN SURESH | FRONTEND | https://github.com/sudhin10 | https://www.linkedin.com/in/sudhin-suresh | 
